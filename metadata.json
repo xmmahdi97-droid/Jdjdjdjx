@@ -1,0 +1,6 @@
+{
+  "name": "Zeus VPN",
+  "description": "High-speed modern VLESS & proxy VPN client with real-time telemetry, ping test, and privacy shields",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
